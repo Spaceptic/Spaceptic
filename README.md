@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Spaceptic
-- 👀 I’m interested in astronomy, coding and football (english kind)
+- 👀 I’m interested in astronomy, coding and football (english kinda)
 - 🌱 I’m currently learning web developmemnt and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
